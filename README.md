@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on a mobile project
 - 📫 How to reach me ...
 
-https://mega.nz/file/CUghDT5A#OV0-HRkxHdaoU7moKnwGxF1LE2kN1vAuXB3m-21mprA
+As a Flutter developer, I specialize in building high-performance, cross-platform mobile applications for both iOS and Android. 
+I use a single codebase to deliver fast, beautiful apps that provide a seamless user experience. From integrating APIs to designing responsive UIs and optimizing performance, 
+I can help bring your mobile app ideas to life. If you're looking for a reliable Flutter developer for your next project, feel free to reach out—I’d love to collaborate!
 
 <!---
 MuyisaWinner/MuyisaWinner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
