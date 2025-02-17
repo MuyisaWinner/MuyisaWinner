@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @MuyisaWinner
-- 👀 I’m interested in mobile development 
-- 🌱 I’m currently learning flutter and dart
-- 💞️ I’m looking to collaborate on a mobile project
-- 📫 How to reach me ...
 
 As a Flutter developer, I specialize in building high-performance, cross-platform mobile applications for both iOS and Android. 
 I use a single codebase to deliver fast, beautiful apps that provide a seamless user experience. From integrating APIs to designing responsive UIs and optimizing performance, 
