@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m @MuyisaWinner<br>As a Flutter developer, I specialize in building high-performance, cross-platform mobile applications for both iOS and Android. I use a single codebase to deliver fast, beautiful apps that provide a seamless user experience. From integrating APIs to designing responsive UIs and optimizing performance, I can help bring your mobile app ideas to life. If you're looking for a reliable Flutter developer for your next project, feel free to reach out—I’d love to collaborate!
 
+# Happy to meet you
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muyisawinner) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muyisawinner) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muyisawinner) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@ndalos) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ndalosoft) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muyisawinner5@gmail.com) 
